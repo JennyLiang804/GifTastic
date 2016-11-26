@@ -33,6 +33,7 @@ A Web based Javascript/ HTML5 Gif fetching application that uses the GIPHY API t
 * JAVASCRIPT 
 * CSS 
 * Giphy API
+* Ajax
 
 ## License
 
